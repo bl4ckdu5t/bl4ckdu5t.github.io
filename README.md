@@ -1,4 +1,3 @@
-# bl4ckdu5t.github.io
 <!DOCTYPE html>
 <html lang="ru">
 <head>
